@@ -1,0 +1,23 @@
+.x-axis,
+.y-axis{
+    fill: none;
+    stroke:blue;
+    stroke-width: 1px;
+}
+.bar {
+    fill: steelblue;
+}
+
+.bar:hover {
+    fill: brown;
+}
+.x-axis path{
+    display: none;
+}
+text{
+	stroke: none;
+    fill: #666666;
+    font-size: 14px;
+    font-family:"Helvetica Neue";
+    font-weight: bold;	
+}
